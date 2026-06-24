@@ -8,7 +8,7 @@
       "developerName": "Me",
       "subtitle": "Null's Brawl Mod",
       "localizedDescription": "Modded Version of Brawl Star",
-      "iconURL": "<LIEN_VERS_UNE_ICONE.png>",
+      "iconURL": "https://raw.githubusercontent.com/Artleboss2/Nulls-Brawl/main/nb-icon.png",
       "version": "1.0",
       "versionDate": "2026-06-24",
       "versionDescription": "Version initiale",
