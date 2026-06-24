@@ -1,0 +1,20 @@
+{
+  "name": "Nulls Brawl",
+  "identifier": "com.perso.NullsBrawlAltStore",
+  "apps": [
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "com.supercell.brawlstars",
+      "developerName": "Me",
+      "subtitle": "Null's Brawl Mod",
+      "localizedDescription": "Modded Version of Brawl Star",
+      "iconURL": "<LIEN_VERS_UNE_ICONE.png>",
+      "version": "1.0",
+      "versionDate": "2026-06-24",
+      "versionDescription": "Version initiale",
+      "downloadURL": "<LIEN_DIRECT_VERS_TON_FICHIER.ipa>",
+      "size": 1135874048
+    }
+  ],
+  "news": []
+}
