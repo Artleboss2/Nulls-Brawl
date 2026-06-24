@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Null's Brawl",
-      "bundleIdentifier": "com.supercell.brawlstars",
+      "bundleIdentifier": "nt.nb.ios",
       "developerName": "Me",
       "subtitle": "Null's Brawl Mod",
       "localizedDescription": "Modded Version of Brawl Star",
